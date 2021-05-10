@@ -38,7 +38,7 @@ dependencies {
   implementation "com.fasterxml.jackson.module:jackson-module-parameter-names:2.9.8"
   implementation "com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.8"
   implementation "com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8"
-  implementation "mysql:mysql-connector-java:8.0.15"
+  implementation "mysql:mysql-connector-java:8.0.25"
   implementation "com.zaxxer:HikariCP:3.3.1"
   implementation "com.google.inject:guice:4.2.2"
   runtime "ch.qos.logback:logback-classic:1.2.3"
